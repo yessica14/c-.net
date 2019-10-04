@@ -1,0 +1,11 @@
+C:\Users\Yessica-\platzi\ETAPA1\bin\Debug\netcoreapp3.0\ETAPA1.exe
+C:\Users\Yessica-\platzi\ETAPA1\bin\Debug\netcoreapp3.0\ETAPA1.deps.json
+C:\Users\Yessica-\platzi\ETAPA1\bin\Debug\netcoreapp3.0\ETAPA1.runtimeconfig.json
+C:\Users\Yessica-\platzi\ETAPA1\bin\Debug\netcoreapp3.0\ETAPA1.runtimeconfig.dev.json
+C:\Users\Yessica-\platzi\ETAPA1\bin\Debug\netcoreapp3.0\ETAPA1.dll
+C:\Users\Yessica-\platzi\ETAPA1\bin\Debug\netcoreapp3.0\ETAPA1.pdb
+C:\Users\Yessica-\platzi\ETAPA1\obj\Debug\netcoreapp3.0\ETAPA1.csprojAssemblyReference.cache
+C:\Users\Yessica-\platzi\ETAPA1\obj\Debug\netcoreapp3.0\ETAPA1.AssemblyInfoInputs.cache
+C:\Users\Yessica-\platzi\ETAPA1\obj\Debug\netcoreapp3.0\ETAPA1.AssemblyInfo.cs
+C:\Users\Yessica-\platzi\ETAPA1\obj\Debug\netcoreapp3.0\ETAPA1.dll
+C:\Users\Yessica-\platzi\ETAPA1\obj\Debug\netcoreapp3.0\ETAPA1.pdb
